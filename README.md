@@ -1,5 +1,5 @@
 # Revisao
-Meu primeiro programa em .NET e C#, um programa que inclui até 5 alunos, suas notas e calcula a média geral
+Meu primeiro programa (console) em .NET e C#, um programa que inclui até 5 alunos, suas notas e calcula a média geral.
 
 1-Baixe os arquivos
 
